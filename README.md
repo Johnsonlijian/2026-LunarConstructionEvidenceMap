@@ -15,8 +15,9 @@ internal rounds/logs, credentials and private files.
 python code/reproduce_core_checks.py
 ```
 
-Expected output includes the SPS nominal energy-burden ratio and the
-mid-case storage-equivalent power screen.
+Expected output includes the SPS nominal energy-burden ratio, the
+mid-case storage-equivalent power screen and the parameter-envelope
+stress-test count.
 
 ## Repository boundary
 
