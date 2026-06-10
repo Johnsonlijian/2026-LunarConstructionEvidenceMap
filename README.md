@@ -25,3 +25,5 @@ construction route, release raw third-party data, or contain the active
 submission manuscript.
 
 Repository URL: https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap
+
+Current candidate figure set: V57 CE engineering-centrality update, with Figure 5 promoting the parametric power-screen panel into the main display-item set.
