@@ -1,0 +1,10 @@
+short_label,lc_erl,lc_erl_tag,role,strength_MPa,strength_rank,physics_only_rank,evidence_gated_rank,delivered_energy_nominal_MJ_per_kg,energy_ratio_vs_lowest_nominal,allowed_wording,missing_promotion_evidence
+Cold sinter,3,3P,priority falsification target,30.0,7,1,1,2.016806722689076,1.0,diagnostic priority under declared evidence gates,"batch mass, pressure tooling, consumables, route-complete loss"
+CSS,3,3P,priority falsification target,25.0,9,2,2,4.329004329004329,2.146464646464646,diagnostic priority under declared evidence gates,"temporal storage closure, optical/dust loss stack, site-specific power delivery"
+Geopolymer,3,3P,priority falsification target,30.0,7,3,3,4.563279857397505,2.262626262626262,diagnostic priority under declared evidence gates,"water/alkali recovery, curing cycle, consumable logistics"
+Microwave,3,3C,comparator/burden baseline,45.0,5,4,6,13.186813186813188,6.538461538461537,bounded comparator or burden baseline,"vacuum coupling, scale-up, thermal runaway controls"
+SPS,3,3C,comparator/burden baseline,370.0,1,5,9,25.97402597402597,12.878787878787875,bounded comparator or burden baseline,"deployable pressure tooling, pulsed power, batch and object scale"
+Conv. sinter,3,3C,comparator/burden baseline,50.0,4,6,5,21.245421245421245,10.534188034188032,bounded comparator or burden baseline,"furnace delivery, heat loss, object-scale thermal cycling"
+Full melt,3,3C,comparator/burden baseline,80.0,2,7,4,26.910866910866908,13.34330484330484,bounded comparator or burden baseline,"large delivered-energy burden, casting/thermal stress, object validation"
+Laser melt,3,3C,comparator/burden baseline,60.0,3,8,7,26.64002664002664,13.209013209013207,bounded comparator or burden baseline,"optical path loss, large-area planning, defect validation"
+Cast sinter,3,3C,comparator/burden baseline,40.0,6,9,8,23.606023606023605,11.704653371320036,bounded comparator or burden baseline,"tooling/mold mass, cooling defects, object-scale validation"

@@ -1,0 +1,10 @@
+pad_area_m2,thickness_m,bulk_density_kg_m3,processed_mass_kg,case_note
+15.0,0.02,1500,450.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.02,1800,540.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.02,2000,600.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.05,1500,1125.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.05,1800,1350.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.05,2000,1500.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.1,1500,2250.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.1,1800,2700.0,parametric precursor envelope; not a mission-certified landing-pad design
+15.0,0.1,2000,3000.0,parametric precursor envelope; not a mission-certified landing-pad design

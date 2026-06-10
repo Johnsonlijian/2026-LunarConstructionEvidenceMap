@@ -1,0 +1,11 @@
+protocol_item,rule,reason
+observable_fields,"Record DOI/URL, route family, source type, material simulant or regolith domain, energy boundary, batch mass, loss multiplier, site-time evidence, structural object and claim wording.",Makes LC-ERL assignments auditable from public evidence rather than narrative judgement.
+LC-ERL_0,Source signal only; no route ranking or feasibility wording.,Prevents extraction candidates from becoming engineering claims.
+LC-ERL_1,Registry/context evidence with traceable source metadata but no comparable route-volume-power row.,Separates source inclusion from quantitative screening.
+LC-ERL_2,Descriptor-level route screen with a bounded comparator variable and declared material-domain boundary.,Allows comparison while blocking site-specific route recommendation.
+LC-ERL_3,"Evidence-gated diagnostic assignment with allowed wording, forbidden wording and named blocked gates.",Supports measurement prioritization without claiming route closure.
+LC-ERL_4,"Route-complete engineering evidence under a declared site, object, processed mass, power and loss boundary.",Defines the minimum threshold for engineering closure.
+LC-ERL_5,Mission-admissible claim for a specified envelope with mission-analogue or field-demonstrated evidence.,Prevents local or laboratory evidence from becoming universal deployment language.
+conflict_rule_public_values,Use public measured values first; modelled or inferred values remain bounded scenarios; private or unpublished quantities are not inserted as facts.,Protects reference integrity and cold-sinter batch-boundary treatment.
+conflict_rule_missing_data,"A missing necessary gate is coded as blocked or partial, never imputed as closed.",Makes evidence absence visible to reviewers and designers.
+not_TRL,"LC-ERL is a claim-readiness and claim-wording framework, not an official technology readiness level, procurement score or mission certification.",Keeps the framework inside the evidence actually supplied.

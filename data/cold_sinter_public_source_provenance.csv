@@ -1,0 +1,7 @@
+item,public_value_or_formula,interpretation,manuscript_boundary
+source,"Ref. [7] Liu et al., Materials & Design 2024",cold-sintering equipment-energy signal,public literature only
+published signal,0.86 kWh,source-public equipment-energy value,not a route-complete MJ kg-1 claim
+unit conversion,0.86 kWh x 3.6 = 3.096 MJ,public arithmetic conversion,before batch normalization
+hypothetical normalized form,e_norm = 3.096 L / m MJ kg-1,requires public batch mass m and route-complete loss multiplier L,not reported as achieved performance
+falsification threshold,m_req = 3.096 L / e_target,used in the manuscript and Fig. 4,threshold-only treatment
+submission boundary,No private author communication or unpublished batch mass was used,batch mass is not publicly closed in the source boundary used here,do not wait for unpublished replies

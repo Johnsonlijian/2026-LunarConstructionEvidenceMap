@@ -1,0 +1,15 @@
+comparison,metric,value,n,p_value,method
+physics_only,spearman_rho,-0.6025157343041205,9,0.0919973544973545,exact permutation of screen-rank vector with average-rank tie handling
+physics_only,kendall_tau_b,-0.4225771273642583,9,0.14537037037037037,exact permutation of screen-rank vector with strength-rank tie retained
+evidence_gated,spearman_rho,-0.6861984751796929,9,0.04716710758377425,exact permutation of screen-rank vector with average-rank tie handling
+evidence_gated,kendall_tau_b,-0.4789207443461594,9,0.09350749559082892,exact permutation of screen-rank vector with strength-rank tie retained
+physics_only,dirichlet_negative_share,0.9121,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+physics_only,dirichlet_mean_rho,-0.5081860383069492,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+physics_only,dirichlet_rho_q025,-0.9205101496312953,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+physics_only,dirichlet_rho_q975,0.43515025255297596,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+physics_only,dirichlet_top3_zero_overlap_share,0.6742,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+evidence_gated,dirichlet_negative_share,0.6096,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+evidence_gated,dirichlet_mean_rho,-0.07611614744560306,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+evidence_gated,dirichlet_rho_q025,-0.7866177642303797,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+evidence_gated,dirichlet_rho_q975,0.9288784237188525,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"
+evidence_gated,dirichlet_top3_zero_overlap_share,0.1401,10000,,"uniform Dirichlet weight perturbation; robustness descriptor, not physical validation"

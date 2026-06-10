@@ -1,0 +1,13 @@
+route,temporal_case,dark_gap_days,reference_window_days,temporal_storage_sensitivity_MJ_d_per_kg_index,interpretation
+Cold sinter,Barker_5m_low_LCSP,4.0,1.0,8.067226890756304,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+CSS,Barker_5m_low_LCSP,4.0,1.0,17.316017316017316,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+Geopolymer,Barker_5m_low_LCSP,4.0,1.0,18.25311942959002,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+SPS,Barker_5m_low_LCSP,4.0,1.0,103.89610389610388,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+Cold sinter,Barker_5m_high_LCSP,8.0,1.0,16.134453781512608,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+CSS,Barker_5m_high_LCSP,8.0,1.0,34.63203463203463,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+Geopolymer,Barker_5m_high_LCSP,8.0,1.0,36.50623885918004,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+SPS,Barker_5m_high_LCSP,8.0,1.0,207.79220779220776,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+Cold sinter,Barker_1m_conservative_LCSP,13.0,1.0,26.21848739495799,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+CSS,Barker_1m_conservative_LCSP,13.0,1.0,56.27705627705628,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+Geopolymer,Barker_1m_conservative_LCSP,13.0,1.0,59.32263814616756,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"
+SPS,Barker_1m_conservative_LCSP,13.0,1.0,337.6623376623376,"delivered-energy times dark-gap duration as a comparative index; not a battery-mass, process-duration or power-system design"

@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+data/raw/
+data/raw_external/
+data/downloads/
+data/cache/
+submission_clean/
+manuscript/
+cover_letters/
+rounds/
+logs/
