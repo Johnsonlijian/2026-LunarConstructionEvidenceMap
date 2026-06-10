@@ -26,4 +26,4 @@ submission manuscript.
 
 Repository URL: https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap
 
-Current candidate figure set: V57 CE engineering-centrality update, with Figure 5 promoting the parametric power-screen panel into the main display-item set.
+Current candidate package: V58 CE final no-external-audit polish, with Figure 5 and the parameter-envelope stress-test summary synchronized.
