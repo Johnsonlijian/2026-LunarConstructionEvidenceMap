@@ -8,7 +8,7 @@ authors:
     affiliation: "Inner Mongolia University of Technology"
 year: 2026
 date-released: "2026-06-11"
-version: "v61-ce-multisite-temporal"
+version: "v61-ce-multisite-temporal-fig4fix"
 license: MIT
 repository-code: "https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap"
 abstract: "A public reproducibility package containing derived tables, source registries, figure exports and executable checks for an evidence-readiness framework for lunar regolith construction under power and infrastructure constraints."
