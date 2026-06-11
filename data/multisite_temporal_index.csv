@@ -1,0 +1,17 @@
+site,longest_shadow_h,longest_shadow_d,height_above_ground,site_source,route,nominal_delivered_energy_MJ_per_kg,temporal_storage_sensitivity_MJ_d_per_kg
+Shackleton rim,66.0,2.75,2 m,"Glaser2018_T2 (65-66 h, two spots)",Cold sinter,2.016806722689076,5.546218487394959
+Shackleton rim,66.0,2.75,2 m,"Glaser2018_T2 (65-66 h, two spots)",CSS,4.329004329004329,11.904761904761905
+Shackleton rim,66.0,2.75,2 m,"Glaser2018_T2 (65-66 h, two spots)",Geopolymer,4.563279857397505,12.549019607843137
+Shackleton rim,66.0,2.75,2 m,"Glaser2018_T2 (65-66 h, two spots)",SPS,25.97402597402597,71.42857142857142
+Connecting Ridge C1,112.0,4.666666666666667,2 m,Glaser2018_T2,Cold sinter,2.016806722689076,9.411764705882355
+Connecting Ridge C1,112.0,4.666666666666667,2 m,Glaser2018_T2,CSS,4.329004329004329,20.202020202020204
+Connecting Ridge C1,112.0,4.666666666666667,2 m,Glaser2018_T2,Geopolymer,4.563279857397505,21.295306001188358
+Connecting Ridge C1,112.0,4.666666666666667,2 m,Glaser2018_T2,SPS,25.97402597402597,121.2121212121212
+Connecting Ridge C2,165.0,6.875,2 m,Glaser2018_T2,Cold sinter,2.016806722689076,13.865546218487397
+Connecting Ridge C2,165.0,6.875,2 m,Glaser2018_T2,CSS,4.329004329004329,29.761904761904763
+Connecting Ridge C2,165.0,6.875,2 m,Glaser2018_T2,Geopolymer,4.563279857397505,31.372549019607845
+Connecting Ridge C2,165.0,6.875,2 m,Glaser2018_T2,SPS,25.97402597402597,178.57142857142856
+Barker Site-1,192.0,8.0,5 m,Barker2021_high_LCSP (4-8 d; high case),Cold sinter,2.016806722689076,16.134453781512608
+Barker Site-1,192.0,8.0,5 m,Barker2021_high_LCSP (4-8 d; high case),CSS,4.329004329004329,34.63203463203463
+Barker Site-1,192.0,8.0,5 m,Barker2021_high_LCSP (4-8 d; high case),Geopolymer,4.563279857397505,36.50623885918004
+Barker Site-1,192.0,8.0,5 m,Barker2021_high_LCSP (4-8 d; high case),SPS,25.97402597402597,207.79220779220776

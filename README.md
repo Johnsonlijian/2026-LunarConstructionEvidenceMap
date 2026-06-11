@@ -16,8 +16,8 @@ python code/reproduce_core_checks.py
 ```
 
 Expected output includes the SPS nominal energy-burden ratio, the
-mid-case storage-equivalent power screen and the parameter-envelope
-stress-test count.
+mid-case storage-equivalent power screen, the parameter-envelope
+stress-test count and the four-site temporal descriptor check.
 
 ## Repository boundary
 
@@ -27,4 +27,4 @@ submission manuscript.
 
 Repository URL: https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap
 
-Current candidate package: V58 CE final no-external-audit polish, with Figure 5 and the parameter-envelope stress-test summary synchronized.
+Current reproducibility scope: Communications Engineering candidate with multi-site south-polar temporal descriptors, the parametric landing-pad precursor screen and executable core checks.
