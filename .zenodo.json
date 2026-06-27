@@ -1,13 +1,13 @@
 {
-  "title": "Evidence-readiness gates for lunar regolith construction under power and infrastructure constraints: reproducibility package",
+  "title": "A measurement contract for decidable route-closure claims in lunar regolith construction: reproducibility package",
   "creators": [
     {
       "name": "Ren, Lijian",
       "orcid": "0000-0003-1629-4368",
-      "affiliation": "Inner Mongolia University of Technology"
+      "affiliation": "Inner Mongolia University of Technology; Hohai University"
     }
   ],
-  "description": "Derived tables, source registries, figure exports and executable checks supporting an evidence-readiness framework for lunar regolith construction under power and infrastructure constraints. Raw third-party lunar data products are not redistributed; official source URLs and derived values are provided.",
+  "description": "Public reproducibility package for the Acta Astronautica candidate manuscript A measurement contract for decidable route-closure claims in lunar regolith construction. The archive contains derived coordinate-contract tables, open-access census and screening logs, consequentiality audit outputs, worked-example outputs, constructed witness-register files, figure exports and scripts. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party data, credentials, and private author/funding files.",
   "license": {
     "id": "MIT"
   },
@@ -15,12 +15,14 @@
     "lunar construction",
     "regolith",
     "in situ resource utilization",
+    "measurement contract",
+    "route closure",
     "evidence readiness",
-    "Communications Engineering",
+    "Acta Astronautica",
     "reproducibility package"
   ],
   "upload_type": "software",
-  "publication_date": "2026-06-10",
-  "version": "v58-ce-final",
+  "publication_date": "2026-06-27",
+  "version": "v301.1-acta-measurement-contract",
   "access_right": "open"
 }

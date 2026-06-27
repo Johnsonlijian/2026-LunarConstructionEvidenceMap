@@ -46,5 +46,7 @@ submission manuscript.
 
 Repository URL: https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap
 
+Zenodo concept DOI: https://doi.org/10.5281/zenodo.20962960
+
 Current reproducibility scope: V301 Acta Astronautica measurement-contract
-candidate package, prepared on 2026-06-27.
+candidate package, metadata-corrected as v301.1 on 2026-06-27.
