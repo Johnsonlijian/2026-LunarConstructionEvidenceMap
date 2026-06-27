@@ -1,30 +1,50 @@
 # Lunar Construction Evidence Map
 
-Public reproducibility repository for the Communications Engineering
-candidate manuscript on evidence-readiness gates for lunar regolith
-construction under power and infrastructure constraints.
+Public reproducibility package for the Acta Astronautica candidate manuscript:
 
-The repository contains derived tables, core checks, generated figure
-exports and dataset/source links. It excludes raw third-party lunar
-products, active manuscripts, cover letters, reviewer-response drafts,
-internal rounds/logs, credentials and private files.
+**A measurement contract for decidable route-closure claims in lunar regolith construction**
 
-## Quick check
+This repository contains code, derived tables, figure exports, source registries,
+dataset/source links and runbook material supporting a measurement-contract and
+evidence-readiness analysis for lunar regolith construction route-closure claims.
+
+It intentionally excludes raw third-party data, active submission manuscripts,
+submission PDFs, LaTeX submission packages, cover letters, reviewer-response
+drafts, internal rounds/logs, credentials and private author/funding files.
+
+## V301 Acta Scope
+
+The V301 release adds the public reproducibility assets for the Acta-facing
+measurement-contract manuscript:
+
+- active coordinate contract table;
+- open-access directed-energy census and PRISMA-style screening log;
+- consequentiality framing audit;
+- directed-energy worked example;
+- constructed witness-register summary and proof-grade state-pair register;
+- exported Figures 1-3 and the scripts used to generate them;
+- DOI-verified bibliography metadata used by the manuscript.
+
+## Quick Check
 
 ```powershell
-python code/reproduce_core_checks.py
+python code/scripts/479_v295_worked_example_directed_energy.py
+python code/scripts/481_fig1_projection_collapse.py
+python code/scripts/482_fig3_census_reporting_gap.py
+python code/scripts/486_fig4_consequentiality_map.py
 ```
 
-Expected output includes the SPS nominal energy-burden ratio, the
-mid-case storage-equivalent power screen, the parameter-envelope
-stress-test count and the four-site temporal descriptor check.
+The scripts regenerate the worked example and the three public figure exports
+from derived/non-sensitive inputs. Raw third-party source material is not
+redistributed.
 
-## Repository boundary
+## Repository Boundary
 
-This repository is for reproducibility only. It does not certify a
-construction route, release raw third-party data, or contain the active
+This repository is for reproducibility and source traceability only. It does not
+certify a construction route, release raw third-party data, or contain the active
 submission manuscript.
 
 Repository URL: https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap
 
-Current reproducibility scope: Communications Engineering candidate with multi-site south-polar temporal descriptors, the parametric landing-pad precursor screen and executable core checks.
+Current reproducibility scope: V301 Acta Astronautica measurement-contract
+candidate package, prepared on 2026-06-27.
