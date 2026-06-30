@@ -8,13 +8,24 @@ page-locked (V294 audit + V296 census); the figure is source framing, not eviden
 error.
 """
 from __future__ import annotations
-import sys
 from pathlib import Path
 
-sys.path.insert(0, r"R:\AcademicWorkspace\tools")
-from pyplot_cjk import set_style, savefig, WIDTH_DOUBLE  # noqa: E402
 import matplotlib.pyplot as plt  # noqa: E402
 from matplotlib.patches import FancyBboxPatch, Rectangle  # noqa: E402
+
+try:
+    from pyplot_cjk import set_style, savefig, WIDTH_DOUBLE  # type: ignore
+except ImportError:
+    WIDTH_DOUBLE = 7.2
+
+    def set_style(lang="en", base=8.5, family="serif"):
+        plt.rcParams.update({"font.size": base, "font.family": family})
+
+    def savefig(fig, path, formats=("png", "pdf"), dpi=300):
+        base = Path(path)
+        base.parent.mkdir(parents=True, exist_ok=True)
+        for fmt in formats:
+            fig.savefig(base.with_suffix(f".{fmt}"), bbox_inches="tight", dpi=dpi)
 
 set_style(lang="en", base=8.5, family="serif")
 
@@ -96,8 +107,7 @@ ax.text(0.5, 0.034, "All seven sources assert route-scale feasibility / scalabil
 ax.set_title("Consequentiality: route-scale framing is attached to coordinate-incomplete results",
              fontsize=8.6, fontweight="bold", pad=6)
 
-out = Path(r"W:\01_PROJECTS\NAS_DRIVE\IMUT\1-Research_Output\1-Papers"
-           r"\1_In_Preparation\2026-LunarConstructionEvidenceMap\figures"
-           r"\fig4_consequentiality_map")
+ROOT = Path(__file__).resolve().parents[2]
+out = ROOT / "figures" / "fig4_consequentiality_map"
 savefig(fig, str(out), formats=("png", "pdf", "svg"), dpi=600)
 print("WROTE", out.with_suffix(".pdf"))

@@ -1,0 +1,4 @@
+scenario,unit_power_kw,process_time_s,sample_mass_kg,P_kW,tau_days,M_kg,L,active_source_kw,wall_to_cavity_eff,closure_decidable,closed,energy_margin,source_margin,decision_margin
+reported_projection_only,1.0,900.0,0.05,10.0,100.0,2400.0,1.2,ABSENT_IN_SOURCE,ABSENT_IN_SOURCE,NO_NON_IDENTIFIABLE,,,,
+admissible_completion_A_low_eff_low_capacity,1.0,900.0,0.05,10.0,100.0,2400.0,1.2,3.0,0.5,YES,False,0.8333,0.6,0.6
+admissible_completion_B_higher_eff_higher_capacity,1.0,900.0,0.05,10.0,100.0,2400.0,1.2,6.0,0.7,YES,True,1.1667,1.2,1.1667

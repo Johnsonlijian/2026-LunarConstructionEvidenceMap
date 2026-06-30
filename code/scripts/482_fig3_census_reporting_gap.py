@@ -1,27 +1,37 @@
 #!/usr/bin/env python3
-"""Figure 3: open-access directed-energy census reporting gap (n=6).
+"""Figure 3: open-access directed-energy census reporting gap.
 
-Reads source_tables/v292_open_access_directed_energy_census.csv and counts, per closure
-coordinate, how many of the six sources REPORT it. The two coordinates the directed-energy
+Reads the bundled V319 directed-energy census CSV and counts, per closure
+coordinate, how many sources REPORT it. The two coordinates the directed-energy
 predicate makes decisive (deployed active source capacity, wall-plug-to-cavity efficiency)
-are reported in 0/6, exactly the ones the framework flags as decision-controlling.
+are reported in 0/n, exactly the ones the framework flags as decision-controlling.
 """
 from __future__ import annotations
 import csv
-import sys
 from pathlib import Path
 
-sys.path.insert(0, r"R:\AcademicWorkspace\tools")
-from pyplot_cjk import set_style, savefig, WIDTH_SINGLE  # noqa: E402
 import matplotlib.pyplot as plt  # noqa: E402
 from matplotlib.patches import Patch  # noqa: E402
 
+try:
+    from pyplot_cjk import set_style, savefig, WIDTH_SINGLE  # type: ignore
+except ImportError:
+    WIDTH_SINGLE = 3.5
+
+    def set_style(lang="en", base=8.5, family="serif"):
+        plt.rcParams.update({"font.size": base, "font.family": family})
+
+    def savefig(fig, path, formats=("png", "pdf"), dpi=300):
+        base = Path(path)
+        base.parent.mkdir(parents=True, exist_ok=True)
+        for fmt in formats:
+            fig.savefig(base.with_suffix(f".{fmt}"), bbox_inches="tight", dpi=dpi)
+
 set_style(lang="en", base=8.5, family="serif")
 
-ROOT = Path(r"W:\01_PROJECTS\NAS_DRIVE\IMUT\1-Research_Output\1-Papers"
-            r"\1_In_Preparation\2026-LunarConstructionEvidenceMap")
-rows = list(csv.DictReader((ROOT / "source_tables" /
-            "v296_open_access_directed_energy_census.csv").read_text(encoding="utf-8").splitlines()))
+ROOT = Path(__file__).resolve().parents[2]
+census_path = ROOT / "outputs" / "V319_acta_measurement_contract" / "reproducibility_package" / "census_directed_energy_n7.csv"
+rows = list(csv.DictReader(census_path.read_text(encoding="utf-8").splitlines()))
 N = len(rows)
 
 
