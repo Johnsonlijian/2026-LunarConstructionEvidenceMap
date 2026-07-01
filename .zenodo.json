@@ -1,5 +1,5 @@
 {
-  "title": "Hidden coordinates decide lunar-regolith route feasibility: reproducibility package",
+  "title": "Mission-scale decidability of directed-energy lunar-regolith construction claims: reproducibility package",
   "creators": [
     {
       "name": "Ren, Lijian",
@@ -7,7 +7,7 @@
       "affiliation": "Inner Mongolia University of Technology; Hohai University"
     }
   ],
-  "description": "Public reproducibility package for the Acta Astronautica candidate manuscript Hidden coordinates decide lunar-regolith route feasibility: a physics-grounded measurement contract for decidable claims. The archive contains derived coordinate-contract tables, open-access census and screening logs, broader source-group metadata, consequentiality audit outputs, worked-example outputs, transient heat-balance and efficiency-sensitivity scripts, final figure exports, and reproducibility checks. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party data, credentials, and private author/funding files.",
+  "description": "Public reproducibility package for the Acta Astronautica candidate manuscript Mission-scale decidability of directed-energy lunar-regolith construction claims: a physics-grounded measurement contract. The archive contains derived coordinate-contract tables, open-access census and screening logs, broader source-group metadata, consequentiality audit outputs, worked-example outputs, transient heat-balance, wall-input closure-boundary and efficiency-sensitivity scripts, final figure exports, and reproducibility checks. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party data, credentials, and private author/funding files.",
   "license": {
     "id": "MIT"
   },
@@ -22,7 +22,7 @@
     "reproducibility package"
   ],
   "upload_type": "software",
-  "publication_date": "2026-06-30",
-  "version": "v319-acta-measurement-contract",
+  "publication_date": "2026-07-01",
+  "version": "v320-acta-measurement-contract",
   "access_right": "open"
 }

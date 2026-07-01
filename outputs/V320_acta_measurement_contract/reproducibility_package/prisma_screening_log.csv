@@ -1,0 +1,14 @@
+pmcid,year,short_title,decision,reason
+PMC13164667,2026,Microwave-sintered lunar regolith bricks for lunar infrastructure,INCLUDE,directed-energy microwave consolidation of lunar regolith (already in census)
+PMC12308065,2025,Massive water production from cryogenic icy lunar regolith by microwave heating,EXCLUDE,directed-energy microwave but route is volatiles/water extraction not structural consolidation
+PMC11568225,2024,Multi-step thermal design of microwave vacuum heating to basaltic regolith simulant,INCLUDE,directed-energy microwave consolidation (already in census)
+PMC11112684,2024,Self-sufficient production of lunar regolith gravels by ultrarapid microwave sintering,INCLUDE,directed-energy microwave consolidation of lunar regolith simulant (NEW this round)
+PMC10754926,2023,Material aspects of sintering of EAC-1A lunar regolith simulant,EXCLUDE,conventional radiant-furnace sintering (10 C/min ramp; 1 h hold); laser only used for particle-size diffraction not processing
+PMC10570301,2023,Laser melting manufacturing of large elements of lunar regolith simulant for paving,INCLUDE,directed-energy laser consolidation (already in census)
+PMC9889770,2023,Microstructure and mechanical properties of microwave-heated lunar simulants under vacuum,INCLUDE,directed-energy microwave consolidation (already in census)
+PMC9519865,2022,A novel method for estimating subresolution porosity from CT images,EXCLUDE,CT image-analysis method paper; not a regolith directed-energy processing route
+PMC9009621,2022,Microbial induced calcite precipitation can consolidate martian and lunar regolith,EXCLUDE,biological (MICP) consolidation; not a directed-energy thermal route
+PMC7822870,2021,Investigating the microwave heating behaviour of lunar soil simulant JSC-1A,INCLUDE,directed-energy microwave consolidation (already in census)
+PMC7560307,2020,Electric current-assisted sintering of lunar regolith simulant,EXCLUDE,electric-current / spark-plasma sintering; a different active-heating mode (not microwave or laser directed energy)
+PMC6961047,2019,Surface temperature simulation of lunar dayside (Sinus Iridum),EXCLUDE,remote-sensing thermal modeling of the lunar surface; not a processing route
+PMC9831544,2022,Two-dimensional laser melting of lunar regolith simulant (MOONRISE payload),INCLUDE_SNOWBALL,directed-energy laser consolidation; OA full text retrievable but not returned by the open-access[filter] query so added via reference snowballing
