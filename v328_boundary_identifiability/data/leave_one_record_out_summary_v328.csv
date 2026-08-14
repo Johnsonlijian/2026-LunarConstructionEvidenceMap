@@ -1,0 +1,9 @@
+﻿coding_rule,coordinate,leave_one_out_gain_min,leave_one_out_gain_max,leave_one_out_rank_min,leave_one_out_rank_max
+strict,mass,5.416667,6.416667,1,2
+strict,energy,4.916667,5.416667,1,2
+strict,time,1.583333,1.916667,3,3
+strict,endpoint,0.0,0.25,4,4
+permissive,mass,5.916667,6.916667,1,1
+permissive,energy,3.916667,4.916667,2,2
+permissive,time,1.416667,1.916667,3,3
+permissive,endpoint,0.0,0.25,4,4

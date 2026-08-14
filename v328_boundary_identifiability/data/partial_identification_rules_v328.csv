@@ -1,0 +1,5 @@
+﻿case,available_information,formed_product_intensity_set,identification_state
+point_yield_and_native_energy,"E_n, F and y are source-visible at aligned boundaries",{E_n/(y F)},point at the declared native source plane
+bounded_yield,"E_n, F and y in [y_L,y_U], with 0<y_L<=y_U<=1","[E_n/(y_U F), E_n/(y_L F)]",partially identified
+feed_only,E_n and F; only 0<y<=1 is known,"[E_n/F, infinity)","lower-bounded, not point identified"
+wall_plug_product_boundary,"E_w=E_n/eta_g+E_anc, 0<eta_g<=1, E_anc>=0, 0<y<=1","[E_n/F, infinity) unless finite bounds are measured",nonidentified for cross-plane route ranking

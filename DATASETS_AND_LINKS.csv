@@ -15,3 +15,5 @@ NASA_NTRS_R38_SUPPORT_EVIDENCE,,,,official metadata/fulltext provenance; exclude
 
 NASA_NTRS_GLASER_2018_TEMPORAL,Glaser et al. 2018 Planetary and Space Science / NASA NTRS accepted manuscript,https://ntrs.nasa.gov/citations/20170007365,source for named-site longest shadow descriptors,link/full-text provenance only; do not redistribute publisher article,2026-06-11,,,
 PGDA_PRODUCT_78_SITE_CATALOG,NASA PGDA High-resolution LOLA South Pole Sites,https://pgda.gsfc.nasa.gov/products/78,site-name/catalog context for south-polar illumination products,link/context only,2026-06-11,,,
+V328_CROSSREF_DISCOVERY,Crossref DOI metadata,https://api.crossref.org/works,747-record reproducible discovery registry,metadata and derived registry only; no article text or PDFs,2026-08-14,,,v328_boundary_identifiability/data/inputs/discovery_registry_v326.csv
+V328_PUBLISHED_SOURCES,DOI-identified published experimental sources,https://doi.org/,source-locked typed audit and numerical cases,derived coding and source locators only; copyrighted source PDFs excluded,2026-08-14,,,v328_boundary_identifiability/data/inputs/source_audit_16_v326.csv

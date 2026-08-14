@@ -1,5 +1,5 @@
 {
-  "title": "Mission-scale decidability of directed-energy lunar-regolith construction claims: reproducibility package",
+  "title": "A boundary-identifiability framework for energy comparisons in lunar-regolith construction experiments: reproducibility package",
   "creators": [
     {
       "name": "Ren, Lijian",
@@ -7,7 +7,7 @@
       "affiliation": "Inner Mongolia University of Technology; Hohai University"
     }
   ],
-  "description": "Public reproducibility package for the Acta Astronautica candidate manuscript Mission-scale decidability of directed-energy lunar-regolith construction claims: a physics-grounded measurement contract. The archive contains derived coordinate-contract tables, open-access census and screening logs, broader source-group metadata, consequentiality audit outputs, worked-example outputs, transient heat-balance, wall-input closure-boundary and efficiency-sensitivity scripts, final figure exports, and reproducibility checks. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party data, credentials, and private author/funding files.",
+  "description": "Public reproducibility package for a boundary-identifiability analysis of energy comparisons in lunar-regolith construction experiments. The V328 archive contains typed boundary states, a claim-indexed comparability graph, point/partial/nonidentification rules, reporting-repair and sensitivity analyses, nine source-visible numerical cases, five figure source sets, derived discovery and coding metadata, and executable checks. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party article PDFs, credentials, and private author/funding files.",
   "license": {
     "id": "MIT"
   },
@@ -15,14 +15,14 @@
     "lunar construction",
     "regolith",
     "in situ resource utilization",
-    "measurement contract",
-    "route closure",
-    "evidence readiness",
-    "Acta Astronautica",
+    "boundary identifiability",
+    "engineering data comparability",
+    "partial identification",
+    "measurement boundary",
     "reproducibility package"
   ],
   "upload_type": "software",
-  "publication_date": "2026-07-01",
-  "version": "v320-acta-measurement-contract",
+  "publication_date": "2026-08-14",
+  "version": "v328-boundary-identifiability",
   "access_right": "open"
 }

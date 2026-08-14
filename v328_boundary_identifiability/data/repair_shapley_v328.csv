@@ -1,0 +1,5 @@
+﻿coordinate,shapley_closure_gain,share_of_14_recoverable_closures,interpretation
+mass,6.416667,0.458333,Order-averaged marginal contribution to the optimistic closure upper bound; not a causal value or measurement cost.
+energy,5.416667,0.386905,Order-averaged marginal contribution to the optimistic closure upper bound; not a causal value or measurement cost.
+time,1.916667,0.136905,Order-averaged marginal contribution to the optimistic closure upper bound; not a causal value or measurement cost.
+endpoint,0.25,0.017857,Order-averaged marginal contribution to the optimistic closure upper bound; not a causal value or measurement cost.

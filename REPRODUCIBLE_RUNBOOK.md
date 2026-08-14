@@ -9,8 +9,13 @@ python -m pip install -r requirements.txt
 2. Run the core reproducibility check:
 
 ```powershell
+python v328_boundary_identifiability/data/build_v328_identifiability.py
 python code/reproduce_core_checks.py
 ```
+
+The first command regenerates the current V328 derived tables and five figure
+sets from the released inputs. It contains deterministic assertions and does
+not access private paths or source PDFs.
 
 3. Inspect derived data:
 

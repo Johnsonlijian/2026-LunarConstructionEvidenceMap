@@ -1,0 +1,58 @@
+{
+  "records": 16,
+  "possible_pairs": 120,
+  "identified_edges": 1,
+  "graph_density": 0.008333333333333333,
+  "isolated_records": 14,
+  "connected_components": 15,
+  "largest_component_size": 2,
+  "components": [
+    [
+      "B08",
+      "B09"
+    ],
+    [
+      "B01"
+    ],
+    [
+      "B02"
+    ],
+    [
+      "B03"
+    ],
+    [
+      "B04"
+    ],
+    [
+      "B05"
+    ],
+    [
+      "B06"
+    ],
+    [
+      "B07"
+    ],
+    [
+      "B10"
+    ],
+    [
+      "B11"
+    ],
+    [
+      "B12"
+    ],
+    [
+      "B13"
+    ],
+    [
+      "B14"
+    ],
+    [
+      "B15"
+    ],
+    [
+      "B16"
+    ]
+  ],
+  "inference_boundary": "Metrics describe the purposive 16-record audit set and one declared target metric; they are not field-wide prevalence estimates."
+}
