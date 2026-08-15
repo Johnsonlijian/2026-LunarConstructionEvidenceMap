@@ -1,0 +1,10 @@
+﻿case_id,record_id,year,simulant,nominal_input_setting_W,nominal_input_energy_kJ,feed_mass_g,formed_mass_g,yield_fraction,feed_normalized_input_MJ_kg,formed_normalized_input_MJ_kg,denominator_correction_factor,formed_intensity_lower_resolution_MJ_kg,formed_intensity_upper_resolution_MJ_kg,selection_boundary
+B08_250W,B08,2021,JSC-1A,250,900.0,50.0,22.0,0.44,18.0,40.90909090909091,2.272727272727273,40.0,41.86,Highest-yield specimen among at least five specimens at this setting; not a mean.
+B08_400W,B08,2021,JSC-1A,400,900.0,50.0,35.0,0.7,18.0,25.714285714285715,1.4285714285714286,25.352,26.087,Highest-yield specimen among at least five specimens at this setting; not a mean.
+B08_600W,B08,2021,JSC-1A,600,900.0,50.0,41.0,0.82,18.0,21.951219512195124,1.2195121951219512,21.687,22.222,Highest-yield specimen among at least five specimens at this setting; not a mean.
+B08_800W,B08,2021,JSC-1A,800,900.0,50.0,45.0,0.9,18.0,20.0,1.1111111111111112,19.78,20.225,Highest-yield specimen among at least five specimens at this setting; not a mean.
+B08_1000W,B08,2021,JSC-1A,1000,900.0,50.0,50.0,1.0,18.0,18.0,1.0,17.822,18.182,Highest-yield specimen among at least five specimens at this setting; not a mean.
+B09_JSC-1A_250W,B09,2023,JSC-1A,250,900.0,50.0,47.0,0.94,18.0,19.148936170212767,1.0638297872340425,18.947,19.355,Source-reported setting/material case; no replicate mean or distribution is inferred.
+B09_JSC-1A_600W,B09,2023,JSC-1A,600,900.0,50.0,45.0,0.9,18.0,20.0,1.1111111111111112,19.78,20.225,Source-reported setting/material case; no replicate mean or distribution is inferred.
+B09_JSC-1A_1000W,B09,2023,JSC-1A,1000,900.0,50.0,50.0,1.0,18.0,18.0,1.0,17.822,18.182,Source-reported setting/material case; no replicate mean or distribution is inferred.
+B09_OPRH3N_1000W,B09,2023,OPRH3N,1000,3600.0,50.0,49.0,0.98,72.0,73.46938775510205,1.0204081632653061,72.727,74.227,Source-reported setting/material case; no replicate mean or distribution is inferred.

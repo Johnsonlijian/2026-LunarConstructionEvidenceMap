@@ -1,0 +1,2 @@
+﻿record_i,record_j,compatibility_class,identified_comparison,reason
+B08,B09,nominal_magnetron_input_per_formed_mass,yes,"Both records report nominal magnetron input, complete exposure, accepted formed mass and a source-defined formation-yield endpoint."

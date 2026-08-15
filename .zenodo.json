@@ -7,7 +7,7 @@
       "affiliation": "Inner Mongolia University of Technology; Hohai University"
     }
   ],
-  "description": "Public reproducibility package for a boundary-identifiability analysis of energy comparisons in lunar-regolith construction experiments. The V328 archive contains typed boundary states, a claim-indexed comparability graph, point/partial/nonidentification rules, reporting-repair and sensitivity analyses, nine source-visible numerical cases, five figure source sets, derived discovery and coding metadata, and executable checks. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party article PDFs, credentials, and private author/funding files.",
+  "description": "Public reproducibility package for a boundary-identifiability analysis of energy comparisons in lunar-regolith construction experiments. The V329 archive contains typed boundary states, a field-presence versus exact-typing diagnostic ladder, a claim-indexed comparability graph, point/partial/nonidentification rules, eligibility-repair and sensitivity analyses, nine source-visible numerical cases, five byte-deterministic figure source sets, derived discovery and coding metadata, and executable checks. It excludes active submission manuscripts, submission PDFs and LaTeX packages, cover letters, reviewer-response drafts, internal rounds/logs, raw third-party article PDFs, credentials, and private author/funding files.",
   "license": {
     "id": "MIT"
   },
@@ -22,7 +22,7 @@
     "reproducibility package"
   ],
   "upload_type": "software",
-  "publication_date": "2026-08-14",
-  "version": "v328-boundary-identifiability",
+  "publication_date": "2026-08-15",
+  "version": "v329-boundary-identifiability",
   "access_right": "open"
 }

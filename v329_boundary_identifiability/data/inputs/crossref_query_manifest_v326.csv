@@ -1,0 +1,20 @@
+﻿query_id,query,intended_family,evidence_need,rows_per_page,maximum_pages,pages_completed,crossref_total_results,records_retrieved,relevance_kept_occurrences,stop_reason,interpretation_boundary
+Q01,"""lunar regolith"" sintering energy consumption compressive strength",thermal_sintering,process energy and strength,100,3,3,2294569,300,162,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q02,"""lunar regolith"" microwave sintering energy compressive strength",microwave_sintering,source energy and properties,100,3,3,2353035,300,172,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q03,"""lunar regolith simulant"" spark plasma sintering mechanical properties",spark_plasma_sintering,pressure-assisted route,100,3,3,2891135,300,124,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q04,"""lunar regolith"" concentrated solar sintering construction",concentrated_solar,direct optical route,100,3,3,943628,300,214,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q05,"""lunar regolith"" selective laser melting sintering construction",laser_sintering,beam route,100,3,3,1457439,300,158,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q06,"""lunar regolith geopolymer"" compressive strength lunar temperature vacuum",geopolymer,low-temperature route,100,3,3,1354606,300,179,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q07,"""lunar regolith"" cold sintering geopolymer compressive strength",cold_sintering,cold-processing route,100,3,3,604329,300,103,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q08,"""lunar regolith"" landing pad construction cost trade study",landing_pad_architecture,task context,100,3,3,6214334,300,158,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q09,"""lunar highlands simulant"" LHS-1 geomechanical composition",material_domain,highland material domain,100,3,3,414674,300,262,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q10,"""lunar regolith"" thermal conductivity vacuum simulant",thermal_environment,thermal boundary,100,3,3,974033,300,249,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q11,"""lunar regolith"" additive manufacturing review construction",review_taxonomy,route taxonomy,100,3,3,6551651,300,138,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q12,"""lunar in situ"" large-scale construction regolith solidification techniques",system_evaluation,system comparison,100,3,3,2123020,300,193,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q13,"""lunar landing and launch pad"" regolith plume ejecta construction",landing_pad_architecture,mission-side need,100,3,3,528264,300,126,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q14,"""lunar regolith"" resin composite construction mechanical properties",binder_composite,binder comparator,100,3,3,3126545,300,134,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+Q15,"""lunar regolith"" starch biocomposite extraterrestrial construction",binder_composite,biocomposite comparator,100,3,3,551691,300,181,protocol_cap_300,Finite discovery query; counts are not used as field prevalence.
+SEED,10.1016/j.eng.2024.03.004,nearest_prior_or_audit_source,explicit DOI verification,1,1,1,1,1,1,verified_by_doi_endpoint,Bibliographic identity only.
+SEED,10.1016/j.paerosci.2024.101045,nearest_prior_or_audit_source,explicit DOI verification,1,1,1,1,1,1,verified_by_doi_endpoint,Bibliographic identity only.
+SEED,10.1016/j.jobe.2025.114371,nearest_prior_or_audit_source,explicit DOI verification,1,1,1,1,1,1,verified_by_doi_endpoint,Bibliographic identity only.
+SEED,10.1038/s41598-023-50391-y,nearest_prior_or_audit_source,explicit DOI verification,1,1,1,1,1,1,verified_by_doi_endpoint,Bibliographic identity only.

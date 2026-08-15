@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this package, cite the archived release shown on the Zenodo landing page."
+title: "A boundary-identifiability framework for energy comparisons in lunar-regolith construction experiments: reproducibility package"
+type: software
+authors:
+  - family-names: "Ren"
+    given-names: "Lijian"
+    orcid: "https://orcid.org/0000-0003-1629-4368"
+    affiliation: "Inner Mongolia University of Technology; Hohai University"
+version: "v329-boundary-identifiability"
+license: MIT
+repository-code: "https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceMap"
+abstract: "Code, typed boundary data, derived diagnostics and figure sources for testing the identifiability of energy comparisons in lunar-regolith construction experiments."

@@ -1,0 +1,9 @@
+﻿coding_rule,coordinate,shapley_closure_gain,interpretation
+strict,mass,6.416667,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+strict,energy,5.416667,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+strict,time,1.916667,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+strict,endpoint,0.25,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+permissive,mass,6.916667,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+permissive,energy,4.916667,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+permissive,time,1.916667,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.
+permissive,endpoint,0.25,Order-averaged marginal contribution to the optimistic closure upper bound under the stated coding rule.

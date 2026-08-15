@@ -13,31 +13,41 @@ It intentionally excludes raw third-party data, active submission manuscripts,
 submission PDFs, LaTeX submission packages, cover letters, reviewer-response
 drafts, internal rounds/logs, credentials and private author/funding files.
 
-## V328 Boundary-Identifiability Scope
+## V329 Boundary-Identifiability Scope
 
 The current release adds a self-contained package under
-`v328_boundary_identifiability/` with:
+`v329_boundary_identifiability/` with:
 
 - typed source, time, denominator, endpoint and uncertainty states;
+- a diagnostic ladder separating field-presence pairs from exact typed edges;
 - a claim-indexed comparability graph and graph diagnostics;
 - point, partial and nonidentification rules;
-- reporting-repair coalitions, Shapley gains and mass--energy interaction;
+- eligibility-repair coalitions, Shapley gains and mass--energy interaction;
 - strict/permissive and leave-one-record-out sensitivity analyses;
-- a fixed-margin boundary-clustering diagnostic;
+- a bounded, post hoc fixed-margin configuration diagnostic;
 - nine source-visible numerical cases and a denominator rank-ambiguity envelope;
-- five figures in SVG, PDF and PNG; and
-- the derived inputs needed to regenerate every V328 table and figure.
+- five byte-deterministic figures in SVG, PDF and PNG; and
+- the inputs and assertions needed to regenerate every V329 table and figure.
 
 ## Quick Check
 
 ```powershell
-python -m pip install -r requirements.txt
-python v328_boundary_identifiability/data/build_v328_identifiability.py
+python -m pip install -r v329_boundary_identifiability/requirements.txt
+python v329_boundary_identifiability/data/build_v329_identifiability.py
 ```
 
-The script contains assertions for the record count, graph edge, isolate count,
-repair interaction, numerical-case count and maximum denominator correction.
-It requires no private path or copyrighted source PDF.
+The script contains assertions for the record count, diagnostic-ladder pair
+counts, graph edge, isolate count, eligibility interaction, numerical-case count
+and maximum denominator correction. It requires no private path, network access
+or copyrighted source PDF.
+
+## Historical V328 Scope
+
+V328 introduced the typed boundary state, claim-indexed graph, repair-game and
+partial-identification implementation. V329 retains that provenance while
+correcting the distinction between reporting eligibility and returned graph
+edges, adding the lower-tier diagnostic ladder, bounding the numerical evidence
+to one microwave lineage and making all figure exports byte-deterministic.
 
 ## Historical V320 Scope
 
@@ -71,5 +81,5 @@ Repository URL: https://github.com/Johnsonlijian/2026-LunarConstructionEvidenceM
 
 Zenodo concept DOI: https://doi.org/10.5281/zenodo.20962960
 
-Current reproducibility scope: V328 boundary-identifiability package, updated on
-2026-08-14.
+Current reproducibility scope: V329 boundary-identifiability package, updated on
+2026-08-15.

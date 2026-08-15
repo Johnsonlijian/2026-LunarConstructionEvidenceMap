@@ -1,0 +1,8 @@
+{
+  "strict_closed_records": 2,
+  "permissive_closed_records": 2,
+  "strict_mass_energy_interaction": 7,
+  "permissive_mass_energy_interaction": 4,
+  "strict_expected_closed_under_independent_field_allocation": 0.2197265625,
+  "strict_probability_of_maximum_overlap": 0.008203125000000002
+}

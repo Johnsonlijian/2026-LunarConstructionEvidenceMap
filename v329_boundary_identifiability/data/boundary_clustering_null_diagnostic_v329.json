@@ -1,0 +1,15 @@
+{
+  "records": 16,
+  "strict_reported_field_counts": {
+    "mass": 2,
+    "energy": 3,
+    "time": 10,
+    "endpoint": 15
+  },
+  "observed_fully_closed_records": 2,
+  "maximum_possible_fully_closed_records_given_margins": 2,
+  "expected_fully_closed_records_under_independent_field_allocation": 0.2197265625,
+  "observed_to_independent_expectation_ratio": 9.102222222222222,
+  "conditional_probability_of_maximum_overlap_given_independent_fixed_margins": 0.008203125000000002,
+  "interpretation": "Finite-configuration diagnostic only. It shows that the same two records concentrate all four reported coordinates more strongly than independent field allocation with the observed margins; it is not a population p-value."
+}

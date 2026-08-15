@@ -1,0 +1,4 @@
+dataset_id,source_name,official_url,role,redistribution_boundary,date_checked,local_path
+V329_CROSSREF_DISCOVERY,Crossref DOI metadata,https://api.crossref.org/works,747-record discovery registry,metadata and derived registry only; no article text or PDFs,2026-08-15,data/inputs/discovery_registry_v326.csv
+V329_PUBLISHED_SOURCES,DOI-identified published experimental sources,https://doi.org/,source-locked typed audit and numerical cases,derived coding and source locators only; copyrighted source PDFs excluded,2026-08-15,data/inputs/source_audit_16_v326.csv
+V329_CANDIDATE_MAP,Author-derived candidate and selection ledgers,https://api.crossref.org/works,55-study map and transparent audit-frame selection,metadata and author coding only,2026-08-15,data/inputs/candidate_map_55.csv

@@ -1,0 +1,17 @@
+﻿repair_fields,field_count,formation_closed_records_upper_bound,all_pairs_upper_bound,within_route_pairs_upper_bound,closed_record_ids,inference_boundary
+none,0,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass,1,3,3,1,B02;B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+energy,1,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+time,1,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+endpoint,1,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;energy,2,10,45,6,B01;B02;B03;B04;B07;B08;B09;B11;B13;B16,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;time,2,3,3,1,B02;B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;endpoint,2,3,3,1,B02;B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+energy;time,2,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+energy;endpoint,2,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+time;endpoint,2,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;energy;time,3,15,105,17,B01;B02;B03;B04;B05;B07;B08;B09;B10;B11;B12;B13;B14;B15;B16,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;energy;endpoint,3,10,45,6,B01;B02;B03;B04;B07;B08;B09;B11;B13;B16,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;time;endpoint,3,3,3,1,B02;B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+energy;time;endpoint,3,2,1,1,B08;B09,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.
+mass;energy;time;endpoint,4,16,120,19,B01;B02;B03;B04;B05;B06;B07;B08;B09;B10;B11;B12;B13;B14;B15;B16,Optimistic reporting-availability upper bound. A supplied field is not assumed to be numerically compatible across source planes.

@@ -1,0 +1,24 @@
+{
+  "numeric_cases": 9,
+  "jsc_900kJ_50g_cases": 8,
+  "jsc_feed_normalized_unique_MJ_kg": [
+    18.0
+  ],
+  "jsc_formed_normalized_range_MJ_kg": [
+    18.0,
+    40.90909090909091
+  ],
+  "observed_yield_range": [
+    0.44,
+    1.0
+  ],
+  "observed_denominator_correction_range": [
+    1.0,
+    2.272727272727273
+  ],
+  "sample_observed_rank_ambiguity_nominal_ratio": [
+    0.43999999999999995,
+    2.272727272727273
+  ],
+  "inference_boundary": "The ambiguity interval uses only the correction-factor range observed in these nine source-selected microwave cases; it is not a cross-route bound."
+}
